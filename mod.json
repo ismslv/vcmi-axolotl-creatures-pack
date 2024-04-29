@@ -32,6 +32,13 @@
 			"translation/axolotl/german.json"
 		]
 	},
+	"russian" : {
+		"name" : "Набор существ «Axolotl»",
+		"description" : "Набор существ «Axolotl» от Gilu. Добавляет 43 новых существа.",
+		"translations" : [
+			"translation/axolotl/russian.json"
+		]
+	},
 	"creatures" :
 	[
 		"config/zombi/zombieLow",
